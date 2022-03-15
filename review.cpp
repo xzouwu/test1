@@ -34,7 +34,7 @@ int main()
 		if (num3 > num2) {
 			cout << " the current number is greater than the previous: " << endl;
 		}
-		else if (num3 < num2) {
+		else if (num3 < num2) {    
 			cout << " the current number is less than the previous: " << endl;
 		}
 		else {
